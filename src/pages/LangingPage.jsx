@@ -24,10 +24,12 @@ function LangingPage() {
               </div>
             </div>
             <div className="links--white">
-              <a href="#">Service</a>
-              <a href="#">About</a>
-              <a href="#">Pricing</a>
-              <a href="#">Contact Me</a>
+              <div className="container">
+                <a href="#">Service</a>
+                <a href="#">About</a>
+                <a href="#">Pricing</a>
+                <a href="#">Contact Me</a>
+              </div>
             </div>
             <div className="links--black">
               <div className="links--black--container">
