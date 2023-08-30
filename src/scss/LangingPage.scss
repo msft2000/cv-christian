@@ -134,10 +134,12 @@ body {
         & > p:first-of-type {
           display: flex;
           align-items: center;
+          font-size: 1.2rem;
           & > svg {
             margin-right: 10px;
             rotate: 270deg;
           }
+          cursor: pointer;
         }
         & > hr {
           width: 80%;
