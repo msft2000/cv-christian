@@ -1,6 +1,6 @@
 /* eslint-disable jsx-a11y/anchor-is-valid */
 import React from "react";
-import logo from "../assets/imgs/logo512.png";
+import logo from "../assets/imgs/logo.png";
 import hero from "../assets/imgs/hero.png";
 import herosvg from "../assets/imgs/hero.svg";
 import audit from "../assets/imgs/audit.png";
@@ -20,15 +20,14 @@ function LangingPage() {
             <div className="nav--logo">
               <div className="nav--logo--container">
                 <img src={logo} alt="logo" />
-                <h1>logo</h1>
               </div>
             </div>
             <div className="links--white">
               <div className="container">
-                <a href="#">Service</a>
-                <a href="#">About</a>
+                <a href="#service">Service</a>
+                <a href="#about">About</a>
                 <a href="#">Pricing</a>
-                <a href="#">Contact Me</a>
+                <a href="#contact">Contact Me</a>
               </div>
             </div>
             <div className="links--black">
