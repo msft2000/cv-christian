@@ -230,6 +230,9 @@ body {
       }
       .hover {
         display: none;
+        a{
+            color: white;
+        }
       }
       &:hover {
         .nohover {
@@ -240,7 +243,6 @@ body {
         transition: all 0.5s ease-in-out;
         & > h3 {
           margin-bottom: 50px;
-          transition: all 0.5s ease-in-out;
         }
         .hover {
           width: 100%;
@@ -259,7 +261,7 @@ body {
             display: flex;
             align-items: center;
             font-size: 1.1rem;
-            transition: all 0.2s ease-in-out;
+            transition: all 0.3s ease-in-out;
             svg {
               margin-right: 5px;
               font-size: 1.1rem;

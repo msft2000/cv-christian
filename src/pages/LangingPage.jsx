@@ -93,7 +93,57 @@ function LangingPage() {
                 eos eligendi, itaque aut accusantium perferendis nam amet. Pariatur
                 quia eos, eaque autem.
               </p>
-              <a href="#">
+              <a href="#contact">
+                <ExpandCircleDownRoundedIcon />
+                Let's Connect
+              </a>
+            </div>
+          </div>
+          <div className="service--card--container">
+            <h3>/01</h3>
+            <div className="nohover">
+              <img src={hero} alt="Audit logo" />
+              <h3>External Audit</h3>
+            </div>
+            <div className="hover">
+              <p>
+                Lorem ipsum dolor, sit amet consectetur adipisicing elit. Aliquid
+                delectus porro molestiae similique nemo eum totam eaque ex ipsam? Sed
+                eos eligendi, itaque aut accusantium perferendis nam amet. Pariatur
+                quia eos, eaque autem.
+              </p>
+              <p>
+                Lorem ipsum dolor, sit amet consectetur adipisicing elit. Aliquid
+                delectus porro molestiae similique nemo eum totam eaque ex ipsam? Sed
+                eos eligendi, itaque aut accusantium perferendis nam amet. Pariatur
+                quia eos, eaque autem.
+              </p>
+              <a href="#contact">
+                <ExpandCircleDownRoundedIcon />
+                Let's Connect
+              </a>
+            </div>
+          </div>
+          <div className="service--card--container">
+            <h3>/01</h3>
+            <div className="nohover">
+              <img src={hero} alt="Audit logo" />
+              <h3>External Audit</h3>
+            </div>
+            <div className="hover">
+              <p>
+                Lorem ipsum dolor, sit amet consectetur adipisicing elit. Aliquid
+                delectus porro molestiae similique nemo eum totam eaque ex ipsam? Sed
+                eos eligendi, itaque aut accusantium perferendis nam amet. Pariatur
+                quia eos, eaque autem.
+              </p>
+              <p>
+                Lorem ipsum dolor, sit amet consectetur adipisicing elit. Aliquid
+                delectus porro molestiae similique nemo eum totam eaque ex ipsam? Sed
+                eos eligendi, itaque aut accusantium perferendis nam amet. Pariatur
+                quia eos, eaque autem.
+              </p>
+              <a href="#contact">
                 <ExpandCircleDownRoundedIcon />
                 Let's Connect
               </a>
@@ -143,7 +193,7 @@ function LangingPage() {
                 eos eligendi, itaque aut accusantium perferendis nam amet. Pariatur
                 quia eos, eaque autem.
               </p>
-              <a href="#">
+              <a href="#contact">
                 <ExpandCircleDownRoundedIcon />
                 Let's Connect
               </a>
@@ -168,57 +218,7 @@ function LangingPage() {
                 eos eligendi, itaque aut accusantium perferendis nam amet. Pariatur
                 quia eos, eaque autem.
               </p>
-              <a href="#">
-                <ExpandCircleDownRoundedIcon />
-                Let's Connect
-              </a>
-            </div>
-          </div>
-          <div className="service--card--container">
-            <h3>/01</h3>
-            <div className="nohover">
-              <img src={hero} alt="Audit logo" />
-              <h3>External Audit</h3>
-            </div>
-            <div className="hover">
-              <p>
-                Lorem ipsum dolor, sit amet consectetur adipisicing elit. Aliquid
-                delectus porro molestiae similique nemo eum totam eaque ex ipsam? Sed
-                eos eligendi, itaque aut accusantium perferendis nam amet. Pariatur
-                quia eos, eaque autem.
-              </p>
-              <p>
-                Lorem ipsum dolor, sit amet consectetur adipisicing elit. Aliquid
-                delectus porro molestiae similique nemo eum totam eaque ex ipsam? Sed
-                eos eligendi, itaque aut accusantium perferendis nam amet. Pariatur
-                quia eos, eaque autem.
-              </p>
-              <a href="#">
-                <ExpandCircleDownRoundedIcon />
-                Let's Connect
-              </a>
-            </div>
-          </div>
-          <div className="service--card--container">
-            <h3>/01</h3>
-            <div className="nohover">
-              <img src={hero} alt="Audit logo" />
-              <h3>External Audit</h3>
-            </div>
-            <div className="hover">
-              <p>
-                Lorem ipsum dolor, sit amet consectetur adipisicing elit. Aliquid
-                delectus porro molestiae similique nemo eum totam eaque ex ipsam? Sed
-                eos eligendi, itaque aut accusantium perferendis nam amet. Pariatur
-                quia eos, eaque autem.
-              </p>
-              <p>
-                Lorem ipsum dolor, sit amet consectetur adipisicing elit. Aliquid
-                delectus porro molestiae similique nemo eum totam eaque ex ipsam? Sed
-                eos eligendi, itaque aut accusantium perferendis nam amet. Pariatur
-                quia eos, eaque autem.
-              </p>
-              <a href="#">
+              <a href="#contact">
                 <ExpandCircleDownRoundedIcon />
                 Let's Connect
               </a>
@@ -268,7 +268,7 @@ function LangingPage() {
                 eos eligendi, itaque aut accusantium perferendis nam amet. Pariatur
                 quia eos, eaque autem.
               </p>
-              <a href="#">
+              <a href="#contact">
                 <ExpandCircleDownRoundedIcon />
                 Let's Connect
               </a>
